@@ -5,3 +5,5 @@ def func():
 
 func()
 print("Im outside the function")
+
+func()
